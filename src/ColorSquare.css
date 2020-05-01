@@ -1,0 +1,14 @@
+.paint-chip {
+  margin: 0 2rem;
+  box-shadow: 0px 4px 6px lightgrey;
+  width: 200px;
+  height: 260px;
+}
+
+.paint-chip--color {
+  height: 200px;
+}
+
+.paint-chip--label {
+  text-align: center;
+}

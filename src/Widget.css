@@ -1,0 +1,32 @@
+.widget {
+  max-width: 200px;
+  padding: 1rem;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
+
+.widget input[type=range] {
+  display: block;
+}
+
+.widget input[type=text] {
+  width: 70px;
+}
+
+.swatch-collections {
+  display: flex;
+}
+
+.swatch-collection {
+  flex: 1;
+}
+
+.swatch-thumbnails {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.swatch-thumbnails div {
+  width: 25px;
+  height: 25px;
+}
